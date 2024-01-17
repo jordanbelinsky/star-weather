@@ -92,9 +92,7 @@ There is also a written description to go along with the photo for details sake.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+This project will not be publicly published on the App Store. If you would like to built it for personal use, you can clone the repo and build it to either iOS Simulator or your personal device using Xcode.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -137,7 +135,7 @@ Don't forget to give the project a star! Thanks again!
 
 Email: [jordan.belinsky@outlook.com](mailto:jordan.belinsky@outlook.com)
 
-Personal Website: [jordanbelinsky.ca](https://jordanbelinsky.ca)
+Personal Website: [jordanbelinsky.github.io](https://jordanbelinsky.github.io)
 
 Project Link: [https://github.com/jordanbelinsky/star-weather/](https://github.com/jordanbelinsky/star-weather/)
 
